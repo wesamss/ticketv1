@@ -1,0 +1,12 @@
+{
+     "ticketCategoryID":"1115724538152484934",
+     "adminRoleID":"1050235610809520208",
+     "idserver":"1011820688228765828",
+
+
+    "closemsg":"Ticket has been closed.",
+    "ticket_open_msg":"Your ticket has been created",
+    "ticket_title_help":"Support Ticket",
+    "ticket_msg_help":"Please wait for an administrator to assist you.",
+    "already_open_ticket_msg":"You already have an open ticket."
+}
